@@ -8,6 +8,8 @@ $array = array("1" => "PHP code tester Sandbox Online",
 foreach( $array as $key => $value ){
     echo $key."\t=>\t".$value."\n";
 }
-echo('more conflict demo');
 echo('slave test');
+echo('more conflict demo');
+echo('more conflict demo');
+echo('more conflict demo');
 echo('test');
