@@ -22,3 +22,5 @@ echo('Adding more things to test rebase');
 echo('Adding more things to test rebase 2.0');
 
 echo('Adding more things to test rebase 3.0');
+
+echo('Adding more things to test rebase 4.0');
