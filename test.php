@@ -19,6 +19,7 @@ echo('test');
 
 echo('Adding more things to test rebase');
 
+echo('Creating conflicts');
 echo('Adding more things to test rebase 2.0');
 
 echo('Adding more things to test rebase 3.0');
