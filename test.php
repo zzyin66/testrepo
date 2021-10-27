@@ -17,5 +17,6 @@ echo "Welcome to Developer News<br>";
 EcHo "Enjoy all of the ad-free articles<br>";
 echo('test');
 
-
 echo('Adding more things to test rebase');
+
+echo('Adding more things to test rebase 2.0');
