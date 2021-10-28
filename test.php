@@ -18,12 +18,12 @@ $data3 = squash;
 
 //Master changing things
 
-function set(int $data, int $test){
+function tes(int $data, int $test){
   $data = 1;
   $test = 2;
 }
 
-function test(){
+function testtest(){
     $data = 1;
     $test = 2;
 }
