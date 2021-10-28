@@ -8,23 +8,6 @@ $array = array("1" => "PHP code tester Sandbox Online",
 foreach( $array as $key => $value ){
     echo $key."\t=>\t".$value."\n";
 }
-echo('slave test');
-ECHO "Hello!<br>";
-echo "Welcome to Developer News<br>";
-EcHo "Enjoy all of the ad-free articles<br>";
-echo('test');
-
-echo('Adding more things to test rebase');
-
-echo('Creating conflicts');
-echo('Slave adding things');
-echo('Practicing rebase commits');
-echo('Keep practicing squashing');
-echo('Adding more things to test rebase 2.0');
-
-echo('Adding more things to test rebase 3.0');
-
-echo('Adding more things to test rebase 4.0');
 
 $data4 = surprise rebase;
 
