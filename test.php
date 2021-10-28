@@ -36,26 +36,10 @@ function set(int $data, int $test){
   //asdfasdf
 }
 
-function set2(int $data, int $test){
-  //replace
+function new(int $data, int $test){
+  $data = 1;
+  $test = 2;
 
-  //asdfasdf
-}
-
-function squash(int $data, int $test){
-  //replace
-
-  //asdfasdf
-}
-
-function squash2(int $data, int $test){
-  //replace
-
-  //asdfasdf
-}
-
-function squash3(int $data, int $test){
-  //replace
   //asdfasdf
 }
 
