@@ -26,6 +26,12 @@ function set(int $data, int $test){
 function test(){
     $data = 1;
     $test = 2;
+}
+
+function set(int $data, int $test){
+  $data = 1;
+  $test = 2;
+}
 
 //first commit
 //second commit
