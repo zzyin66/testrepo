@@ -33,6 +33,26 @@ function set(int $data, int $test){
   $test = 2;
 }
 
+function set2(int $data, int $test){
+  $data = 1;
+  $test = 2;
+}
+
+function squash(int $data, int $test){
+  $data = 1;
+  $test = 2;
+}
+
+function squash2(int $data, int $test){
+  $data = 1;
+  $test = 2;
+}
+
+function squash3(int $data, int $test){
+  $data = 1;
+  $test = 2;
+}
+
 //first commit
 //second commit
 //third commit
