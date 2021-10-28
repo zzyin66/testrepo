@@ -27,3 +27,5 @@ echo('Adding more things to test rebase 3.0');
 echo('Adding more things to test rebase 4.0');
 
 $data4 = surprise rebase;
+
+//Adding things by the master to test rebase
