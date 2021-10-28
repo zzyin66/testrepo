@@ -45,3 +45,8 @@ $data3 = squash;
 //testsetesttestsetesttestsetesttestsetesttestsetest
 //testsetesttestsetest
 //testsetesttestsetesttestsetesttestsetest
+
+function set(int $data, int $test){
+  $data = 1;
+  $test = 2;
+}
