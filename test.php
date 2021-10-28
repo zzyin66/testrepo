@@ -34,6 +34,10 @@ function MASTERNEW(){
   //stufffff
 }
 
+function NEWNENWENW(){
+  //stuff
+}
+
 //first commit
 //second commit
 //third commit
