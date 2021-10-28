@@ -21,16 +21,50 @@ $data3 = squash;
 function tes(int $data, int $test){
   $data = 1;
   $test = 2;
+
+  //asdfasdf
 }
 
 function testtest(){
     $data = 1;
     $test = 2;
+
+    //asdfasdf
 }
 
 function set(int $data, int $test){
   $data = 1;
   $test = 2;
+
+  //asdfasdf
+}
+
+function set2(int $data, int $test){
+  $data = 1;
+  $test = 2;
+
+  //asdfasdf
+}
+
+function squash(int $data, int $test){
+  $data = 1;
+  $test = 2;
+
+  //asdfasdf
+}
+
+function squash2(int $data, int $test){
+  $data = 1;
+  $test = 2;
+
+  //asdfasdf
+}
+
+function squash3(int $data, int $test){
+  $data = 1;
+  $test = 2;
+
+  //asdfasdf
 }
 
 //first commit
