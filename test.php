@@ -38,6 +38,10 @@ function NEWNENWENW(){
   //stuff
 }
 
+function CONFLICTDEEEEEEMo(){
+  //stuff
+}
+
 //first commit
 //second commit
 //third commit
