@@ -46,6 +46,10 @@ function CONFLICTDEEEEEEMo(){
   //stuff
 }
 
+function SLAVE(){
+  //stuff
+}
+
 //first commit
 //second commit
 //third commit
