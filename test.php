@@ -19,51 +19,43 @@ $data3 = squash;
 //Master changing things
 
 function tes(int $data, int $test){
-  $data = 1;
-  $test = 2;
-
+  //replace
+  
   //asdfasdf
 }
 
 function testtest(){
-    $data = 1;
-    $test = 2;
+    //replace
 
     //asdfasdf
 }
 
 function set(int $data, int $test){
-  $data = 1;
-  $test = 2;
+  //replace
 
   //asdfasdf
 }
 
 function set2(int $data, int $test){
-  $data = 1;
-  $test = 2;
+  //replace
 
   //asdfasdf
 }
 
 function squash(int $data, int $test){
-  $data = 1;
-  $test = 2;
+  //replace
 
   //asdfasdf
 }
 
 function squash2(int $data, int $test){
-  $data = 1;
-  $test = 2;
+  //replace
 
   //asdfasdf
 }
 
 function squash3(int $data, int $test){
-  $data = 1;
-  $test = 2;
-
+  //replace
   //asdfasdf
 }
 
