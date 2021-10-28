@@ -19,15 +19,19 @@ $data3 = squash;
 //Master changing things
 
 function tes(int $data, int $test){
+  //new
 }
 
 function testtest(){
+  //new
 }
 
 function set(int $data, int $test){
+  //new
 }
 
 function new(int $data, int $test){
+  //new
 }
 
 function MASTERNEW(){
