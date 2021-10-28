@@ -37,3 +37,18 @@ $data2 = squash;
 $data3 = squash;
 
 //Master changing things
+//Adding things from slave to test rebase
+//
+
+//asldkfjasldkfjasldkfjasldfkajsdlfkjasdlfkjfjff
+//some sldkfjasldkfoqiwueqowieuqo123123123
+
+//testsetesttestsetesttestsetesttestsetesttestsetest
+//testsetesttestsetest
+//testsetesttestsetesttestsetesttestsetest
+//A long paragraph of nothign to test rebasing from master
+//more info lasdkjflaskdflasdkflasdkfjlasdkflfkjasj
+
+//psycho psychopsychopsychopsychopsychopsychopsychopsycho
+//psychopsychopsychopsychopsychopsychopsychopsychopsychopsychopsycho
+//psychopsychopsychopsychopsycho
