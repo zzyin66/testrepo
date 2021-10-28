@@ -20,6 +20,9 @@ echo('test');
 echo('Adding more things to test rebase');
 
 echo('Creating conflicts');
+echo('Slave adding things');
+echo('Practicing rebase commits');
+echo('Keep practicing squashing');
 echo('Adding more things to test rebase 2.0');
 
 echo('Adding more things to test rebase 3.0');
@@ -29,3 +32,9 @@ echo('Adding more things to test rebase 4.0');
 $data4 = surprise rebase;
 
 //Adding things by the master to test rebase
+$data = squash;
+$data2 = squash;
+$data3 = squash;
+
+
+//Adding things from slave to test rebase
