@@ -50,3 +50,5 @@ function set(int $data, int $test){
   $data = 1;
   $test = 2;
 }
+
+//master conflict
