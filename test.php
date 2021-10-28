@@ -19,28 +19,19 @@ $data3 = squash;
 //Master changing things
 
 function tes(int $data, int $test){
-  //replace
-  
-  //asdfasdf
 }
 
 function testtest(){
-    //replace
-
-    //asdfasdf
 }
 
 function set(int $data, int $test){
-  //replace
-
-  //asdfasdf
 }
 
 function new(int $data, int $test){
-  $data = 1;
-  $test = 2;
+}
 
-  //asdfasdf
+function MASTERNEW(){
+  //stufffff
 }
 
 //first commit
