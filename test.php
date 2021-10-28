@@ -37,21 +37,16 @@ $data2 = squash;
 $data3 = squash;
 
 //Master changing things
-//Adding things from slave to test rebase
-//
-//asldkfjasldkfjasldkfjasldfkajsdlfkjasdlfkjfjff
-//some sldkfjasldkfoqiwueqowieuqo123123123
 
-//testsetesttestsetesttestsetesttestsetesttestsetest
-//testsetesttestsetest
-//testsetesttestsetesttestsetesttestsetest
-
-//more shflkasdjflasdkfjfdjjsdkfffffffffffffffffffffffffffffffffffff
 function set(int $data, int $test){
   $data = 1;
   $test = 2;
 }
 
-//llllllllllllllllllllllllllllllllllllllllllllllllllll
+function test(){
+    $data = 1;
+    $test = 2;
 
-//master conflict
+//first commit
+//second commit
+//third commit
